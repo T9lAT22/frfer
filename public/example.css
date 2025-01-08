@@ -24,6 +24,7 @@
     color: aliceblue;
     background-color: #25252a;
     font-size: 5vh;
+    border-radius:20px;
 }
 
 #searchButton {
